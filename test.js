@@ -18,4 +18,6 @@ function init() {
 function sayHello() {
 
     alert("hello");
+
+    //oops
 }
