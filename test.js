@@ -14,3 +14,8 @@ function init() {
     alert(aaa + bbb);
 
 }
+
+function sayHello() {
+
+    alert("hello");
+}
