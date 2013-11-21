@@ -21,3 +21,7 @@ function sayHello() {
 
     //oops
 }
+
+function alert(){
+  say('Hello');
+}
